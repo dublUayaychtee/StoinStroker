@@ -3,11 +3,11 @@
 [![Firmware](https://github.com/dublUayaychtee/StenoStroker/actions/workflows/firmware_workflow.yml/badge.svg)](https://github.com/dublUayaychtee/StenoStroker/actions/workflows/firmware_workflow.yml)
 
 
-# StenoStroker
+# StoinStroker
 
 ![Banner](Static/Banner.png)
 
-This repo contains all the firmware and hardware for the StenoStroker.
+This repo contains all the firmware and hardware for the StoinStroker.
 
 If you're looking for the latest docs/builds, see our [Releases Page](https://github.com/dublUayaychtee/StenoStroker/releases).
 
@@ -16,8 +16,8 @@ If you're looking for the latest docs/builds, see our [Releases Page](https://gi
 First, clone this repo (and optionally checkout a branch)
 
 ```shell
-git clone https://github.com/dublUayaychtee/StenoStroker.git
-cd StenoStroker
+git clone https://github.com/dublUayaychtee/StoinStroker.git
+cd StoinStroker
 ```
 
 # Init Submodules
